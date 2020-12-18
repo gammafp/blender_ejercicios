@@ -1,4 +1,4 @@
-# blender_ejercicios
+# Ejercicios de Blender
 Ejercicios de blender :D
 
 
